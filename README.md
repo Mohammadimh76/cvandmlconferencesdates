@@ -35,7 +35,7 @@ Seconds | 301 | 283 | 290 | 286 | 289
 ### CVPR 
 
 Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
---- | --- | --- |--- |--- 
+--- | --- | --- |--- |--- |--- 
 CVPR2024 | Seattle, Washington, United States | ------- | ------- | ------- | 356
 CVPR2023 | Indianapolis, Indiana, United States | ------- | Jun 17 - Jun 24, 2023 | ------- | 356
 CVPR2022 | New Orleans, Louisiana, United States | Nov 18, 2021 | Jun 19 - Jun 24, 2022 | https://cvpr2022.thecvf.com/ | 356
@@ -46,7 +46,7 @@ CVPR2021 | Virtual | Nov 16, 2022 | Jun 19 - Jun 25, 2022 | http://openaccess.th
 
 
 Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
---- | --- | --- |--- |--- 
+--- | --- | --- |--- |--- |--- 
 NeurIPS2024 | -------  | ------- | ------- | ------- | 245
 NeurIPS2023 | New Orleans, Louisiana, United States | May 19, 2022 | Nov 28 - Dec 9, 2022 | https://nips.cc/Conferences/2022 | 245
 NeurIPS2022 | Virtual | May 28, 2021 | Dec 6 - Dec 14, 2021 | https://nips.cc/Conferences/2021 | 245
@@ -56,7 +56,7 @@ NeurIPS2021 | Virtual| Jun 5, 2020 |  Dec 7 - Dec 12, 2020 | https://nips.cc/Con
 ### ICML
 
 Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
---- | --- | --- |--- |--- 
+--- | --- | --- |--- |--- |--- 
 ICML2024 | Vienna, Austria | ------- | Jul 19 - Jul 27, 202 | ------- | 204
 ICML2023 | Seoul, South Korea   | ------- |  Jul 24 - Jul 30, 2023 | ------- | 204
 ICML2022 | Baltimore, Maryland, United States  + Virtual | Jan 27, 2022 | July 17 - July 23, 2022 | https://icml.cc/Conferences/2022 | 204
