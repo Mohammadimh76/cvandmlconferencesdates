@@ -6,11 +6,11 @@
 Rank | Publication |h5-index |h5-median
 --- | --- | --- |---
 1 | [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://www.thecvf.com/)	| 356	| 583
-2 | [Neural Information Processing Systems (NeurIPS) ](https://www.google.com)	| 245	| 422
-3 | [International Conference on Machine Learning](https://www.google.com)	| 204	| 370
-4 | [European Conference on Computer Vision (ECCV)](https://www.thecvf.com/)	| 197	| 342
-5 | [IEEE/CVF International Conference on Computer Vision (ICCV)](https://www.thecvf.com/)	| 184	| 311
-6 | [AAAI Conference on Artificial Intelligence (AAAI)](https://www.google.com)	| 157	| 240
+2 | [Neural Information Processing Systems (NeurIPS) ](https://nips.cc)	| 245	| 422
+3 | [International Conference on Machine Learning](https://icml.cc)	| 204	| 370
+4 | [European Conference on Computer Vision (ECCV)](https://www.thecvf.com)	| 197	| 342
+5 | [IEEE/CVF International Conference on Computer Vision (ICCV)](https://www.thecvf.com)	| 184	| 311
+6 | [AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences)	| 157	| 240
 7 | [IEEE/CVF Computer Society Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)](https://www.thecvf.com)	| 89	| 154
 8 | [International Conference on Artificial Intelligence and Statistics](https://www.google.com)	| 68	| 101
 9 | [British Machine Vision Conference (BMVC)](https://www.google.com)	| 66	| 102
@@ -30,7 +30,8 @@ Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date
 
 ECCV2022 | Tel Aviv, Isreal | Mar 7, 2022 | Oct 25 - Oct 27, 2022 | https://eccv2022.ecva.net | 197
 NeurIPS2023 | New Orleans, Louisiana, United States | May 19, 2022 | Nov 28 - Dec 9, 2022 | https://nips.cc/Conferences/2022 | 245
-CVPR2023 | Indianapolis, Indiana, United States | Nov 2022(Likely) | Jun 17 - Jun 24, 2023 | -------
+AAAI2023 | -------| Sep 2022 (Likely) | ------- | ------- | 157
+CVPR2023 | Indianapolis, Indiana, United States | Nov 2022 (Likely) | Jun 17 - Jun 24, 2023 | ------- |356
 ICML2023 | Seoul, South Korea   | Jan 2023 (Likely) |  Jul 24 - Jul 30, 2023 | ------- | 204
 ICCV2023 | Paris ,France | Mar 2023 (Likely) | Sep 30 – Oct 6, 2023 | ------- | 184
 
@@ -83,6 +84,25 @@ ICCV2025 | Xi’an	,China | ------- | ------- | ------- | 184
 ICCV2023 | Paris ,France | ------- | Sep 30 – Oct 6, 2023 | ------- | 184
 ICCV2021 | Virtual | Mar 10, 2021 | Oct 11 - Oct 17, 2021 | https://openaccess.thecvf.com/ICCV2021 | 184
 ICCV2019 | Seoul, South Korea ,| Mar 22, 2019 | Otc 27 - Nov 2, 2019 | http://openaccess.thecvf.com/ICCV2019.py | 184
+
+### AAAI
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+AAAI2024 | -------| ------- | ------- | ------- | 157
+AAAI2023 | -------| ------- | ------- | ------- | 157
+AAAI2022 | Virtual | Sep 8, 2021 | Feb 22, Mar 1, 2022  | https://aaai.org/Conferences/AAAI-22 | 157
+AAAI2021 | Virtual | Sep 9, 2020 | Feb 2 - Feb 9, 2021 | https://aaai.org/Conferences/AAAI-21 | 157
+
+### ECCV
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+------- | -------| ------- | ------- | ------- | -------
+------- | -------| ------- | ------- | ------- | -------
+------- | -------| ------- | ------- | ------- | -------
+------- | -------| ------- | ------- | ------- | -------
+
 
 ### ECCV
 
