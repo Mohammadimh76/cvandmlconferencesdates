@@ -18,9 +18,9 @@ Rank | Publication |h5-index |h5-median
 12	| [Conference on Learning Theory (COLT)](http://www.learningtheory.org/)	| 57	| 101
 13	| [International Joint Conference on Neural Networks (IJCNN) ](https://www.ijcnn.org/)	| 57	| 84
 14	| [IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)](https://www.thecvf.com)	| 57	| 83
-15	| [International Conference on 3D Vision (3DV)](https://www.google.com)	| 44	| 89
-16	| [International Conference on Pattern Recognition](https://www.google.com)	| 43	| 78
-17	| [Asian Conference on Computer Vision (ACCV)](https://www.google.com)	| 43	| 69
+15	| [International Conference on 3D Vision (3DV)](http://3dv.org/)	| 44	| 89
+16	| [International Conference on Pattern Recognition](https://www.icpr2022.com/)	| 43	| 78
+17	| [Asian Conference on Computer Vision (ACCV)](https://accv2022.org/en/)	| 43	| 69
 18	| [IEEE International Conference on Automatic Face & Gesture Recognition](https://www.google.com)	| 42	| 66
 
 
@@ -29,11 +29,17 @@ Rank | Publication |h5-index |h5-median
 Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
 --- | --- | --- |--- |--- |--- 
 ECCV2022 | Tel Aviv, Isreal | Mar 7, 2022 | Oct 25 - Oct 27, 2022 | https://eccv2022.ecva.net | 197
-NeurIPS2023 | New Orleans, Louisiana, United States | May 19, 2022 | Nov 28 - Dec 9, 2022 | https://nips.cc/Conferences/2022 | 245
+NeurIPS2023 | New Orleans, Louisiana, United States | May 19, 2022 | Nov 28 - Dec 9, 2022 | https://nips.cc/Conferences/2022 | 44
+BMVC2022 | -------| Jun 2022 (Likely) | Nov 2022 (Likely) | ------- | -------
+ACCV2022 | Macau SAR, China | Jul 6, 2022 | Dec 4 - 8 Dec, 2022 | https://accv2022.org/en/ | 43
+IEEE ICIP 2022 | Bordeaux, France | Jul 11, 2022| Oct 16  - Oct 19, 2022 | https://2022.ieeeicip.org/ | 60
+3DV 2022 | Prague ,Czech Republic | Jul 2022 (Likely) | Dec 2022 (Likely) | http://3dv.org/ | 
 AAAI2023 | -------| Sep 2022 (Likely) | ------- | ------- | 157
 AISTATS2023 | -------| Oct 22(Likely) | Apr 23(Likely) | ------- | 68
 CVPR2023 | Indianapolis, Indiana, United States | Nov 2022 (Likely) | Jun 17 - Jun 24, 2023 | ------- |356
+IJCNN2023 | Gold Coast, Australia | Jan 15, 2023 | Jul 18 - Jul 22, 2023 | ------- | 57
 ICML2023 | Seoul, South Korea   | Jan 2023 (Likely) |  Jul 24 - Jul 30, 2023 | ------- | 204
+COLT 2023 | -------| Feb 2023 (Likely) | July 2023 (Likely) | ------- | 57
 ICCV2023 | Paris ,France | Mar 2023 (Likely) | Sep 30 – Oct 6, 2023 | ------- | 184
 
 
@@ -92,24 +98,98 @@ Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date
 --- | --- | --- |--- |--- |--- 
 AAAI2024 | -------| ------- | ------- | ------- | 157
 AAAI2023 | -------| ------- | ------- | ------- | 157
-AAAI2022 | Virtual | Sep 8, 2021 | Feb 22, Mar 1, 2022  | https://aaai.org/Conferences/AAAI-22 | 157
+AAAI2022 | Virtual | Sep 8, 2021 | Feb 22- Mar 1, 2022  | https://aaai.org/Conferences/AAAI-22 | 157
 AAAI2021 | Virtual | Sep 9, 2020 | Feb 2 - Feb 9, 2021 | https://aaai.org/Conferences/AAAI-21 | 157
 
 ### AISTATS
 
 Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
 --- | --- | --- |--- |--- |--- 
-------- | -------| ------- | ------- | ------- | 68
-AISTATS2023 | -------| Oct 22(Likely) | Apr 23(Likely) | ------- | 68
+AISTATS2024 | -------| ------- | ------- | ------- | 68
+AISTATS2023 | -------| Oct 2022(Likely) | Apr 2023(Likely) | ------- | 68
 AISTATS2022 | Virtual  | Oc 15, 2021 | Mar 28 - Mar 30, 2022 | http://aistats.org/aistats2022/ | 68
 AISTATS2021 | Virtual  | Oct 18, 2020 | Apr 13 - Apr 15, 2021 | https://aistats.org/aistats2021/ | 68
+
+### BMVC 
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+BMVC2024 | -------| ------- | ------- | ------- | 68
+BMVC2023 | -------| ------- | ------- | ------- | 68
+BMVC2022 | -------| Jun 2022 (Likely) | Nov 2022 (Likely) | ------- | 68
+BMVC2021  | Virtual | 25 Jun, 2021 | Nov 22 - Nov 25,2021 | https://www.bmvc2021-virtualconference.com/ | 68
+
+### IEEE ICIP 
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+IEEE ICIP 2024 | -------| ------- | ------- | ------- | 60
+IEEE ICIP 2023 | -------| ------- | ------- | ------- | 60
+IEEE ICIP 2022 | Bordeaux, France | Jul 11, 2022| Oct 16  - Oct 19, 2022 | https://2022.ieeeicip.org/ | 60
+IEEE ICIP 2021 | Anchorage, Alaska, USA |  Jan 25, 2021 | Sep 19 - Sep 22, 2021 | https://2021.ieeeicip.org/ | 60
+
+
+### COLT
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+COLT 2024 | -------| ------- | ------- | ------- | 57
+COLT 2023 | -------| Feb 2023 (Likely) | July 2023 (Likely) | ------- | 57
+COLT 2022 | Boulder, Colorado, USA + Virtual | Feb 9, 2022 | July 2–5, 2022 | http://www.learningtheory.org/colt2021/ | 57
+COLT 2021 | London, UK | Jan 29, 2021 |  August 15–19, 2021  | http://learningtheory.org/colt2022/ | 57
+
+
+
+### IJCNN
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+IJCNN2024 | -------| ------- | ------- | ------- | 57
+IJCNN2023 | Gold Coast, Australia | Jan 15, 2023 | Jul 18 - Jul 22, 2023 | ------- | 57
+IJCNN2022 | Padua, Italy | Jan 31, 2022 | 18 Jul - 23 Jul, 2022 | https://wcci2022.org/call-for-papers/ | 57
+IJCNN2021 | Virtual | Feb 10,2021 | Jul 18 - Jul 22 , 2021  | https://www.ijcnn.org/ | 57
+
+### 3DV
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+3DV 2024 | ------- | ------- | ------- | ------- | 44
+3DV 2023 | ------- | ------- | ------- | ------- | 44
+3DV 2022 | Prague, Czech Republic | Jul 2022 (Likely) | Dec 2022 (Likely( | http://3dv.org/ | 44
+3DV 2021 | Virtual | Jul 30, 2021 | Dec 1 - Dec 3, 2021 | https://3dv2021.surrey.ac.uk/ | 44
+
+
+### ICPR
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+ICPR2024 | ------- | ------- | ------- | ------- | 43
+ICPR2022 | Montreal, Canada | Jan 24, 2022	 | Aug 22 - Aug 25, 2022	 | https://www.icpr2022.com/ | 43
+ICPR2020 | Milan, Italy + Virtual | ------- |  Jan 10-  Jan 15, 2021 | https://www.micc.unifi.it/icpr2020/ | 43
+
+### ACCV
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+ACCV2024 | ------- | ------- | ------- | ------- | 43
+ACCV2023 | ------- | ------- | ------- | ------- | 43
+ACCV2022 | Macau SAR, China | Jul 6, 2022 | Dec 4 - 8 Dec, 2022 | https://accv2022.org/en/ | 43
+ACCV2021 | Singapore, Singapore | Dec 15, 2021 | 20 May - 23 May, 2021 | ------- | 43
+
+### FG
+
+Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
+--- | --- | --- |--- |--- |--- 
+FG2024 | ------- | ------- | ------- | ------- | -------
+FG2023 | ------- | ------- | ------- | ------- | -------
+FG2021 | Jodhpur, India + Virtual | Aug 20, 2021 | Dec 15 - Dec 18, 2021 | http://iab-rubric.org/fg2021/ | 42
 
 
 ### ECCV
 
 Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
 --- | --- | --- |--- |--- |--- 
-------- | -------| ------- | ------- | ------- | -------
-------- | -------| ------- | ------- | ------- | -------
-------- | -------| ------- | ------- | ------- | -------
-------- | -------| ------- | ------- | ------- | -------
+------- | ------- | ------- | ------- | ------- | -------
+------- | ------- | ------- | ------- | ------- | -------
+------- | ------- | ------- | ------- | ------- | -------
+------- | ------- | ------- | ------- | ------- | -------
