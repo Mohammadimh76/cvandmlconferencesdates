@@ -27,7 +27,6 @@ Rank | Publication |h5-index |h5-median
 ## Conferences With Submission Deadlines In The Next 12 Months
 
 Conference Name	 | Conference Location | 	Submission Deadline | 	Conference Date | Website | H-Index
-
 --- | --- | --- |--- |--- |--- 
 ECCV2022 | Tel Aviv, Isreal | Mar 7, 2022 | Oct 25 - Oct 27, 2022 | https://eccv2022.ecva.net | 197
 NeurIPS2023 | New Orleans, Louisiana, United States | May 19, 2022 | Nov 28 - Dec 9, 2022 | https://nips.cc/Conferences/2022 | 245
